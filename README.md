@@ -6,6 +6,6 @@ In this algorithm, the first frame of a video (webcam) is keypointed using SIFT 
 
 Pretty cool project. The results are pretty amazing, I think. Took effort but I'm happy with the results.
 
-[!](panoramic_test.gif)
+![](panoramic_test.gif)
 
 
